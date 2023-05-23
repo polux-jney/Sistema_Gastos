@@ -136,3 +136,188 @@
 []
 ===================== 2023-05-19 04:29:42 ==============
 []
+===================== 2023-05-23 02:51:39 ==============
+===================== 2023-05-23 02:51:39 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 02:51:39 ==============
+null
+===================== 2023-05-23 02:51:55 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 02:51:55 ==============
+null
+===================== 2023-05-23 02:51:58 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 02:51:58 ==============
+null
+===================== 2023-05-23 02:52:00 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 02:52:00 ==============
+null
+===================== 2023-05-23 02:55:09 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 02:55:09 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:06:02 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:06:02 ==============
+{"idEmpleado":"2","nombre":"dGxFaW5VaEFDSE5jdGFZbjllMEowZz09OjqYehZJ03TrlGSLYuQ0g94B","primerApellido":"YmIyOWxPY3VCZmRmRjlyUlZxQk92UT09Ojpm0EBNkTbEbQc7KmpdJe\/n","segundoApellido":"bXk2R291UXdGMS9iL0JVR3c1dzZBZz09OjpHhRq5RRX4HfikuAkdm1yM","email":"gabord4532@gmail.com","fechaEntrada":"2023-05-01 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"1","esJefe":"1","usr":"Admin1","pwd":"$2y$11$WoRBdAscw5dGfw3lO.eZouUB1\/2\/\/ZP8KZejPb0SkfBgesa4Dv7Q2","foto":"1684462575.png","activo":"1","fechaCreacion":"2023-05-18 20:16:15","fechaActualizacion":"2023-05-18 20:16:15","idEmpActualiza":"1"}
+===================== 2023-05-23 03:18:22 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:18:22 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:18:26 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:18:26 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:18:27 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:18:27 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:18:32 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:18:32 ==============
+{"idEmpleado":"7","nombre":"dmhjWlltdk5Ra1htM1M1TUVOU2Vndz09OjojmiKpYpHJ1Qyp+oqBH\/HF","primerApellido":"clljTm93bkxHQVVTYkJVN0tNeUx4UT09OjqRMVDlGKU8Gpnw7Jiq5\/ah","segundoApellido":"STZzLzdqYzRGdkUzOGd6ZG42bWtDUT09OjrAMoCscnEGqdMtGXW4X0eP","email":"test@test.com","fechaEntrada":"2023-05-04 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"2","esJefe":"0","usr":"testt","pwd":"$2y$11$WgfjlFbCW\/THPpm2M3Ke9.IFt3lA0dAIkX2clbxECUJPHRDCBFZq6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 02:37:48","fechaActualizacion":"2023-05-23 02:37:48","idEmpActualiza":"1"}
+===================== 2023-05-23 03:20:36 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:20:36 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:28:38 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:28:38 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:29:32 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:29:32 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:30:51 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:30:51 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:37:19 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:37:19 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:40:47 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:40:47 ==============
+{"idEmpleado":"7","nombre":"dmhjWlltdk5Ra1htM1M1TUVOU2Vndz09OjojmiKpYpHJ1Qyp+oqBH\/HF","primerApellido":"clljTm93bkxHQVVTYkJVN0tNeUx4UT09OjqRMVDlGKU8Gpnw7Jiq5\/ah","segundoApellido":"STZzLzdqYzRGdkUzOGd6ZG42bWtDUT09OjrAMoCscnEGqdMtGXW4X0eP","email":"test@test.com","fechaEntrada":"2023-05-04 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"2","esJefe":"0","usr":"testt","pwd":"$2y$11$WgfjlFbCW\/THPpm2M3Ke9.IFt3lA0dAIkX2clbxECUJPHRDCBFZq6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 02:37:48","fechaActualizacion":"2023-05-23 02:37:48","idEmpActualiza":"1"}
+===================== 2023-05-23 03:41:00 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:41:00 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:41:08 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:41:08 ==============
+{"idEmpleado":"2","nombre":"dGxFaW5VaEFDSE5jdGFZbjllMEowZz09OjqYehZJ03TrlGSLYuQ0g94B","primerApellido":"YmIyOWxPY3VCZmRmRjlyUlZxQk92UT09Ojpm0EBNkTbEbQc7KmpdJe\/n","segundoApellido":"bXk2R291UXdGMS9iL0JVR3c1dzZBZz09OjpHhRq5RRX4HfikuAkdm1yM","email":"gabord4532@gmail.com","fechaEntrada":"2023-05-01 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"1","esJefe":"1","usr":"Admin1","pwd":"$2y$11$WoRBdAscw5dGfw3lO.eZouUB1\/2\/\/ZP8KZejPb0SkfBgesa4Dv7Q2","foto":"1684462575.png","activo":"1","fechaCreacion":"2023-05-18 20:16:15","fechaActualizacion":"2023-05-18 20:16:15","idEmpActualiza":"1"}
+===================== 2023-05-23 03:41:21 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:41:21 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:41:30 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:41:30 ==============
+{"idEmpleado":"7","nombre":"dmhjWlltdk5Ra1htM1M1TUVOU2Vndz09OjojmiKpYpHJ1Qyp+oqBH\/HF","primerApellido":"clljTm93bkxHQVVTYkJVN0tNeUx4UT09OjqRMVDlGKU8Gpnw7Jiq5\/ah","segundoApellido":"STZzLzdqYzRGdkUzOGd6ZG42bWtDUT09OjrAMoCscnEGqdMtGXW4X0eP","email":"test@test.com","fechaEntrada":"2023-05-04 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"2","esJefe":"0","usr":"testt","pwd":"$2y$11$WgfjlFbCW\/THPpm2M3Ke9.IFt3lA0dAIkX2clbxECUJPHRDCBFZq6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 02:37:48","fechaActualizacion":"2023-05-23 02:37:48","idEmpActualiza":"1"}
+===================== 2023-05-23 03:42:39 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:42:39 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:43:32 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:43:32 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:43:56 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:43:56 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:52:50 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:52:51 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:58:04 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:58:04 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:58:46 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:58:46 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 03:59:12 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 03:59:12 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:00:39 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:00:39 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:03:23 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:03:23 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:07:04 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:07:04 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:07:50 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:07:50 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:12:18 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:12:18 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:16:35 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:16:35 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:17:25 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:17:25 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:18:39 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:18:39 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:21:06 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:21:06 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:21:24 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:21:24 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:22:05 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:22:05 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:24:31 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:24:31 ==============
+{"idEmpleado":"8","nombre":"UzMyazhYRDhpN0dmTzlSOVNvNFVPZz09Ojrz+aF1gqJYCTifQAOTMlAj","primerApellido":"dHpscFJ1dnc1ODhZQlZwREp6VHVkQT09OjrTyZ\/r87dIWtPfkwqQurca","segundoApellido":"UVNSTkM3SUFWM2NMakE2bzlxZndPUT09OjrXI5N7bBfNFcRvZXkig5N9","email":"sala123q@gmail.coim","fechaEntrada":"2023-05-02 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"1","esJefe":"0","usr":"pacheco","pwd":"$2y$11$Lis\/lmR\/6Uj2S8ju0sB07.DQ1rNNPqVS4poU8lm3TcPFmI3NRDjZK","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 04:23:54","fechaActualizacion":"2023-05-23 04:23:54","idEmpActualiza":"1"}
+===================== 2023-05-23 04:25:10 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:25:10 ==============
+{"idEmpleado":"8","nombre":"UzMyazhYRDhpN0dmTzlSOVNvNFVPZz09Ojrz+aF1gqJYCTifQAOTMlAj","primerApellido":"dHpscFJ1dnc1ODhZQlZwREp6VHVkQT09OjrTyZ\/r87dIWtPfkwqQurca","segundoApellido":"UVNSTkM3SUFWM2NMakE2bzlxZndPUT09OjrXI5N7bBfNFcRvZXkig5N9","email":"sala123q@gmail.coim","fechaEntrada":"2023-05-02 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"1","esJefe":"0","usr":"pacheco","pwd":"$2y$11$Lis\/lmR\/6Uj2S8ju0sB07.DQ1rNNPqVS4poU8lm3TcPFmI3NRDjZK","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 04:23:54","fechaActualizacion":"2023-05-23 04:23:54","idEmpActualiza":"1"}
+===================== 2023-05-23 04:25:50 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:25:50 ==============
+{"idEmpleado":"8","nombre":"UzMyazhYRDhpN0dmTzlSOVNvNFVPZz09Ojrz+aF1gqJYCTifQAOTMlAj","primerApellido":"dHpscFJ1dnc1ODhZQlZwREp6VHVkQT09OjrTyZ\/r87dIWtPfkwqQurca","segundoApellido":"UVNSTkM3SUFWM2NMakE2bzlxZndPUT09OjrXI5N7bBfNFcRvZXkig5N9","email":"sala123q@gmail.coim","fechaEntrada":"2023-05-02 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"1","esJefe":"0","usr":"pacheco","pwd":"$2y$11$Lis\/lmR\/6Uj2S8ju0sB07.DQ1rNNPqVS4poU8lm3TcPFmI3NRDjZK","foto":"default.png","activo":"1","fechaCreacion":"2023-05-23 04:23:54","fechaActualizacion":"2023-05-23 04:23:54","idEmpActualiza":"1"}
+===================== 2023-05-23 04:31:38 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:31:38 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:32:16 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:32:16 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:32:20 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:32:20 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:32:48 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:32:48 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}
+===================== 2023-05-23 04:33:01 ==============
+ajax_empleado_case:Mostrar
+===================== 2023-05-23 04:33:01 ==============
+{"idEmpleado":"3","nombre":"elFDcmlWb0ZJckxpUWpLVUdjNnptdz09OjqJm5Jjd+l6R9Fdz\/mFDA5W","primerApellido":"QWs1Rnpjb2hwaVA5T0lBQmxRMkhYQT09OjozpGG888CztpGyG+zw7kUP","segundoApellido":"M05LVG9LMVVGbjJBZE8weldIVHJMZz09Ojor\/IJG7mAHTY9fsr9wr+hB","email":"yozu@gmail.com","fechaEntrada":"2023-05-11 00:00:00","fechaBaja":"0000-00-00 00:00:00","idDepartamento":"1","idJefe":"0","esJefe":"0","usr":"azu","pwd":"$2y$11$jXO8cFa8QYT8DNU5.zACD.5FxJ2BPAJzOxe5JhVLvzmedNK.bN6r6","foto":"default.png","activo":"1","fechaCreacion":"2023-05-18 20:35:32","fechaActualizacion":"2023-05-18 20:35:32","idEmpActualiza":"1"}

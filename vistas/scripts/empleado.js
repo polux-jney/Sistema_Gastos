@@ -147,4 +147,42 @@ function listar() {
     .DataTable();
 }
 
+function mostrar(idEmpleado) {
+  // utilizamos el short hand de jQuery para Ajax post
+  // podemos crear nuestro propio arreglo de variables poniendo los pares entre {}
+  // Función anónima para capturar el regreso
+  $.post(
+    "../ajax/empleado.php?op=mostrar",
+    { idEmpleado: idEmpleado },
+    function (data) {
+      //console.log(data);
+      //convertimos los datos que vienen de regreso en formato Json a tipo objeto
+      data = JSON.parse(data);
+      console.log(data);
+      //Mostramos el formulario y ocultamos el listado
+      mostrarform(true);
+      //rellenamos a través de instrucciones jQuery los campos del formulario con los datos que nos regresó el Ajax
+      $("#idEmpleado").val(data.idEmpleado);
+      $("#nombre").val(data.nombre);
+      $("#primerApellido").val(data.primerApellido);
+      $("#segundoApellido").val(data.segundoApellido);
+      $("#naemailme").val(data.email);
+      $("#fechaEntrada").val(data.fechaEntrada);
+      $("#fechaBaja").val(data.fechaBaja);
+      $("#idDepartamento").val(data.idDepartamento);
+      $("#idDepartamento").selectpicker("refresh");
+      $("#idJefe").val(data.idJefe);
+      $("#idJefe").selectpicker("refresh");
+      data.esJefe == 1
+        ? $("#esJefe").prop("#checked", true)
+        : $("#esJefe").prop("checked", false);
+
+      $("#usr").val(data.urs);
+      $("#pwd").val(data.pwd);
+      $("#fotoActual").val(data.fotoActual);
+      $("#imagenmuestra").attr("src", "../files/img/" + data.foto);
+    }
+  );
+}
+
 init();

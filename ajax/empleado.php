@@ -8,8 +8,7 @@ $empleado=new Empleado();
 //write_log(json_encode($_FILES));
 
 //limpiar los inputs
-$idCategoria=isset($_POST['idCategoria'])?limpiarCadenas($_POST['idCategoria']):"";
-$descripcion=isset($_POST['descripcion'])?limpiarCadenas($_POST['descripcion']):"";
+
 $idEmpleado=isset($_POST['idEmpleado'])?limpiarCadenas($_POST['idEmpleado']):"";
 $nombre=isset($_POST['nombre'])?limpiarCadenas($_POST['nombre']):"";
 $primerApellido=isset($_POST['primerApellido'])?limpiarCadenas($_POST['primerApellido']):"";
@@ -30,7 +29,7 @@ $pwd=isset($_POST['pwd'])?limpiarCadenas($_POST['pwd']):"";
 $fotoActual=isset($_POST['fotoActual'])?limpiarCadenas($_POST['fotoActual']):"";
 
 date_default_timezone_set('America/Mexico_City');
-$fechaActualizacion=date("Y-m-d H:i:s");
+$fechaActualizacion=date("Y-m-d");
 $idEmpActualiza=1; // Cambiar por el usuario de la sesion.
 
 $imagen=""; //octenr lla img con la que voy a trabajar
@@ -72,8 +71,8 @@ switch ($_GET["op"]){
       $data=Array();
       while ($reg=$rspta->fetch_object()){
         $data[]=array(
-          "0"=>($reg->activo)?'<button class="btn btn-warning" onclick="mostrar('.$reg->idEmpleado.')"><i class="far fa-edit"></i></button>'.
-          ' <button class="btn btn-danger" onclick="desactivar('.$reg->idEmpleado.')"><i class="far fa-window-close"></i></button>':'<button class="btn btn-warning" onclick="mostrar('.$reg->idEmpleado.')"><i class="far fa-edit"></i></button>'.
+          "0"=>($reg->activo)?'<button class="btn btn-warning" title="Editar" onclick="mostrar('.$reg->idEmpleado.')"><i class="far fa-edit"></i></button>'.
+          ' <button class="btn btn-danger" title="Desactivar" onclick="desactivar('.$reg->idEmpleado.')"><i class="far fa-window-close"></i></button>':'<button class="btn btn-warning" onclick="mostrar('.$reg->idEmpleado.')"><i class="far fa-edit"></i></button>'.
           ' <button class="btn btn-primary" onclick="activar('.$reg->idEmpleado.')"><i class="far fa-check-square"></i></button>',
           "1"=>decryption($reg->nombre),
           "2"=>decryption($reg->primerApellido),
@@ -104,12 +103,30 @@ switch ($_GET["op"]){
       }
       break;
  
-/*
+
   case 'mostrar':
-    $rspta=$categoria->mostrar($idCategoria);
+    $rspta=$empleado->mostrar($idEmpleado);
+    write_log("ajax_empleado_case:Mostrar");
+    write_log(json_encode($rspta));
+
+    $rspta["nombre"]=decryption($rspta["nombre"]);
+    $rspta["primerApellido"]=decryption($rspta["primerApellido"]);
+    $rspta["segundoApellido"]=decryption($rspta["segundoApellido"]);
+
+    if(strlen(strtotime($rspta["fechaEntrada"]))>1) {
+      # code...
+      $rspta["fechaEntrada"]=date("Y-m-d",strtotime($rspta["fechaEntrada"]));
+    }
+    if(strlen(strtotime($rspta["fechaBaja"]))>1) {
+      # code...
+      $rspta["fechaBaja"]=date("Y.m.d",strtotime($rspta["fechaBaja"]));
+    }
+
+    $rspta["pwd"]=hash("SHA256","Contraseña no actualizada");
+    
     echo json_encode($rspta);
     break;
-  case 'desactivar':
+ /* case 'desactivar':
   $rspta=$categoria->desactivar($idCategoria);
   echo $rspta?"Categoría desactivada":"Error categoría no desactivada";
   break;
@@ -118,7 +135,7 @@ switch ($_GET["op"]){
   echo $rspta?"Categoría activada":"Error categoría no activada";
   break;
 */
-    }
+  }
 
 
 ?>
