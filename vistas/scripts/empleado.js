@@ -166,7 +166,7 @@ function mostrar(idEmpleado) {
       $("#nombre").val(data.nombre);
       $("#primerApellido").val(data.primerApellido);
       $("#segundoApellido").val(data.segundoApellido);
-      $("#naemailme").val(data.email);
+      $("#email").val(data.email);
       $("#fechaEntrada").val(data.fechaEntrada);
       $("#fechaBaja").val(data.fechaBaja);
       $("#idDepartamento").val(data.idDepartamento);
@@ -177,7 +177,7 @@ function mostrar(idEmpleado) {
         ? $("#esJefe").prop("#checked", true)
         : $("#esJefe").prop("checked", false);
 
-      $("#usr").val(data.urs);
+      $("#usr").val(data.usr);
       $("#pwd").val(data.pwd);
       $("#fotoActual").val(data.fotoActual);
       $("#imagenmuestra").attr("src", "../files/img/" + data.foto);
