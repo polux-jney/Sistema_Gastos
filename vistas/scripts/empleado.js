@@ -1,0 +1,127 @@
+var table;
+
+function init() {
+  listar();
+  mostrarform(false); //ocultamos formulario al cargar la pagina.
+  //Agregamos evento a el formulario para guardar y editar
+  $("#formulario").on("submit", function (e) {
+    guardaryeditar(e);
+  });
+
+  //llamado al ajax de departamento para traer los options del select de departamentos
+  $.post("../ajax/departamento.php?op=select", function (r) {
+    //console.log(r);
+    $("#idDepartamento").html(r);
+    $("#idDepartamento").selectpicker("refresh");
+  });
+
+  //llamado al ajax de empleado para traer los options del select de departamentos
+  $.post("../ajax/empleado.php?op=selectJefes", function (r) {
+    //console.log(r);
+    $("#idJefe").html(r);
+    $("#idJefe").selectpicker("refresh");
+  });
+}
+
+//limpiar formulario
+function limpiar() {
+  $("#idEmpleado").val("");
+  $("#nombre").val("");
+  $("#primerApellido").val("");
+  $("#segundoApellido").val("");
+  $("#email").val("");
+  $("#fechaEntrada").val("");
+  $("#fechaBaja").val("");
+  $("#idDepartamento").val("");
+  $("#idDepartamento").selectpicker("refresh");
+  $("#idJefe").val("");
+  $("#idJefe").selectpicker("refresh");
+  $("#esJefe").prop("checked", false);
+  $("#usr").val("");
+  $("#pwd").val("");
+  $("#foto").val("");
+  $("#fotoActual").val("");
+  $("#imagenmuestra").attr("src", "");
+}
+
+function mostrarform(flag) {
+  limpiar();
+  if (flag) {
+    $("#listadoregdata").hide();
+    $("#formregdata").show();
+    $("#btnagregar").hide();
+    $("#btnGuardar").prop("disable", false);
+  } else {
+    $("#formregdata").hide();
+    $("#listadoregdata").show();
+    $("#btnagregar").show();
+  }
+}
+
+function cancelarform() {
+  limpiar();
+  mostrarform(false);
+}
+
+function guardaryeditar(e) {
+  e.preventDefault();
+
+  $("#btnagregar").prop("disable", true);
+
+  var formData = new FormData($("#formulario")[0]);
+
+  $.ajax({
+    url: "../ajax/empleado.php?op=guardaryeditar",
+    type: "POST",
+    data: formData,
+    contentType: false, //no manda cabecero
+    processData: false, //no convierte objetos en string
+
+    success: function (mensaje) {
+      valida = mensaje.indexOf("error");
+
+      if (valida != -1) {
+        toastr["error"](mensaje);
+      } else {
+        toastr["success"](mensaje);
+      }
+      mostrarform(false);
+      table.ajax.reload();
+    },
+  });
+
+  limpiar();
+}
+
+function listar() {
+  table = $("#tblistadoregdata")
+    .dataTable({
+      Processing: true, //activar procesamiento de tablas
+      ServerSide: true, //paginacion y filtros sean realizados por el servidor
+      responsive: true, //Active capacidades responsivas en la tabla
+      dom: '<"top"Bfl>rt<"bottom"ip><"clear">', // definir los elementos de control de dataTables
+      //B botones export, f filtro sencillo, l selector de filtas
+      //r mensaje de procesamiento, t Table como tal, i informacion
+      //p paginacion
+      buttons: [
+        {
+          extend: "copyHtml5",
+          text: "Copy",
+          titleAttr: "Copiar al portapapeles",
+          className: "btn btn-info",
+        },
+        {
+          extend: "excelHtml5",
+          text: "Excel",
+          titleAttr: "Exportar a Excel",
+          className: "btn btn-success",
+        },
+        {
+          extend: "csvHtml5",
+          text: "CSV",
+          titleAttr: "Exportar a CSV",
+          className: "btn btn-secondary",
+        },
+        {
+          extend: "pdfHtml5",
+          text: "PDF",
