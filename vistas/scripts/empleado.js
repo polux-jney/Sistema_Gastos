@@ -16,7 +16,7 @@ function init() {
   });
 
   //llamado al ajax de empleado para traer los options del select de departamentos
-  $.post("../ajax/empleado.php?op=selectJefes", function (r) {
+  $.post("../ajax/empleado.php?op=selectJefe", function (r) {
     //console.log(r);
     $("#idJefe").html(r);
     $("#idJefe").selectpicker("refresh");
@@ -124,4 +124,27 @@ function listar() {
         },
         {
           extend: "pdfHtml5",
-          text: "PDF",
+          text: "PDF",
+          titleAttr: "Exportar a PDF",
+          className: "btn btn-danger",
+        },
+      ],
+      language: {
+        url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/es-MX.json",
+      },
+      ajax: {
+        url: "../ajax/empleado.php?op=listar",
+        type: "get",
+        dataType: "json",
+        error: function (e) {
+          console.log(e.responseText);
+        },
+      },
+      destroy: true,
+      iDisplayLength: 3, //indica cuantos registros vamos a mostrar en el table.
+      order: [[1, "desc"]],
+    })
+    .DataTable();
+}
+
+init();

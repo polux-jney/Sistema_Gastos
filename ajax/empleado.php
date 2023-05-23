@@ -99,8 +99,8 @@ switch ($_GET["op"]){
     case 'selectJefe':
       # code...
       $rspta=$empleado->selectJefe();
-      while($reg = $rspta->fetch_object()){
-        echo "<"
+      while ($reg = $rspta->fetch_object()){
+        echo "<option value='".$reg->idEmpleado."'>".decryption($reg->nombre)." ".decryption($reg->primerApellido)."</option>";
       }
       break;
  
