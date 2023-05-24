@@ -126,11 +126,12 @@ switch ($_GET["op"]){
     
     echo json_encode($rspta);
     break;
- /* case 'desactivar':
+
+ case 'desactivar':
   $rspta=$categoria->desactivar($idCategoria);
   echo $rspta?"Categoría desactivada":"Error categoría no desactivada";
   break;
-  case 'activar':
+   /*case 'activar':
   $rspta=$categoria->activar($idCategoria);
   echo $rspta?"Categoría activada":"Error categoría no activada";
   break;
